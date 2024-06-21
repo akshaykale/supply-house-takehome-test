@@ -2,6 +2,9 @@
 
 ### Database Schema
 
+<img width="813" alt="image" src="https://github.com/akshaykale/supply-house-takehome-test/assets/10893215/46b49263-b58a-4951-b499-7b1bbc7bd280">
+
+
 #### 1. Accounts table (ACCOUNT)
 
 | Column Name   | Description          |
@@ -55,3 +58,8 @@
 | Method: **DELETE**                                          |                        |
 | Request Body: None                                          |                        |
 | Response: Success or failure message                        |                        |
+
+
+
+
+
