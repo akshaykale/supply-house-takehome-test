@@ -2,7 +2,7 @@
 
 ### Database Schema
 
-<img width="813" alt="image" src="https://github.com/akshaykale/supply-house-takehome-test/assets/10893215/46b49263-b58a-4951-b499-7b1bbc7bd280">
+<img width="806" alt="image" src="https://github.com/akshaykale/supply-house-takehome-test/assets/10893215/3ff8b139-7162-4f3e-87a6-18ad84114d3a">
 
 
 #### 1. Accounts table (ACCOUNT)
